@@ -1,4 +1,6 @@
+import VariablesList from "../components/VariablesList";
+
 const Variables = () => {
-  return <div></div>;
+  return <VariablesList />;
 };
 export default Variables;
